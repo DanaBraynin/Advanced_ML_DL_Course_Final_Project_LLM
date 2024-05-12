@@ -1,6 +1,8 @@
 # Advanced_ML_DL_Course_Final_Project_LLM
 **By: Raz Graider, Dana Braynin, Sophie Margolis and Ran Asanta**<br>
 
+![WhatsApp Image 2024-03-16 at 10 18 52_637b1451](https://github.com/DanaBraynin/Advanced_ML_DL_Course_Final_Project_LLM/assets/114236961/5a4eb6af-8690-49b3-a1c5-1722a7c0409e)
+
 In recent years, the rapid expansion of social media platforms and online communities has not only facilitated greater connectivity and communication but has also revealed a darker side: hate speech and online harassment.<br>
 
 In this project, we explored the challenge of detecting hate speech using machine learning, NLP techniques, and LLMs for sentiment analysis. Our focus was on comparing a **Keras** neural network model to two advanced Large Language Models (LLMs): **Mistral-7b** and **Llama-2-7b**. The objective was to classify text as offensive or non-offensive (a binary classification task), leveraging three distinct datasets.
@@ -13,5 +15,3 @@ The results offer insights into hate speech detection. Through our exploration, 
 
 We recieved a score of 100 on this project.<br>
 We invite you to join us on this journey!
-
-![WhatsApp Image 2024-03-16 at 10 18 52_637b1451](https://github.com/DanaBraynin/Advanced_ML_DL_Course_Final_Project_LLM/assets/114236961/5a4eb6af-8690-49b3-a1c5-1722a7c0409e)
