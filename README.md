@@ -16,3 +16,6 @@ The results offer insights into hate speech detection. Through our exploration, 
 
 We recieved a score of 100 on this project.<br>
 We invite you to join us on this journey!
+
+![mistral wins zoom in](https://github.com/DanaBraynin/Advanced_ML_DL_Course_Final_Project_LLM/assets/114236961/ac965a04-6667-4222-8054-055e878066f8)
+
